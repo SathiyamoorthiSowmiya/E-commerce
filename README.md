@@ -8,21 +8,27 @@ The website is user-friendly, optimized for mobile, tablet, and desktop views, e
 
 Additionally, the product categories are neatly organized, and the homepage banner highlights special offers or seasonal promotions. The design prioritizes performance, aesthetic appeal, and ease of navigation, making it a perfect foundation for a fully functional e-commerce platform in the future.
 
-🌐 Live Demo
-https://e-commercedresswebsite.netlify.app/
+## 🌐 Live Demo  
+[E-Commerce Website](https://e-commercedresswebsite.netlify.app/)
 
+## ✨ Features  
+- Home Page with banner section
+- Product Categories Section
+- New Arrivals, Trending, and Top-Rated Products Section
+- Search Bar for products
+- Category Sidebar for easy navigation
+- Fully Responsive Design
+- Interactive UI with hover effects
+ Home Page with banner section  
+✅ Product Categories Section  
+✅ New Arrivals, Trending, and Top-Rated Products Section  
+✅ Search Bar for products  
+✅ Category Sidebar for easy navigation  
+✅ Fully Responsive Design  
+✅ Interactive UI with hover effects  
 
-✨ Features
-✅ Home Page with banner section
-✅ Product Categories Section
-✅ New Arrivals, Trending, and Top-Rated Products Section
-✅ Search Bar for products
-✅ Category Sidebar for easy navigation
-✅ Fully Responsive Design
-✅ Interactive UI with hover effects
-
-📧 Contact
-For collaboration or queries, feel free to reach me at:
-Email: sowmiyamoorthi01@gmail.com
-LinkedIn: https://www.linkedin.com/in/sowmiya-sathiyamoorthi/
-Portfolio: https://somiya-portfolio.netlify.app/
+## 📧 Contact  
+For collaboration or queries, feel free to reach me at:  
+📩 **Email**: sowmiyamoorthi01@gmail.com  
+🔗 **LinkedIn**: [Sowmiya Sathiyamoorthi](https://www.linkedin.com/in/sowmiya-sathiyamoorthi/)  
+🌍 **Portfolio**: [somiya-portfolio.netlify.app](https://somiya-portfolio.netlify.app/)  
